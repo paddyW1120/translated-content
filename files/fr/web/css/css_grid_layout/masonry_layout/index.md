@@ -1,6 +1,7 @@
 ---
 title: align-tracks
-slug: Web/CSS/align-tracks
+slug: Web/CSS/CSS_grid_layout/Masonry_layout
+original_slug: Web/CSS/align-tracks
 l10n:
   sourceCommit: 02024642bdb12940509cb4c7e2e60cbc3d62bf21
 ---

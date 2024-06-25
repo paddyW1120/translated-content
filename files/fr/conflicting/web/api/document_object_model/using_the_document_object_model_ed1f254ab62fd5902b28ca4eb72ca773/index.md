@@ -1,6 +1,7 @@
 ---
 title: Exemple
-slug: Web/API/Document_object_model/Using_the_Document_Object_Model/Example
+slug: conflicting/Web/API/Document_Object_Model/Using_the_Document_Object_Model_ed1f254ab62fd5902b28ca4eb72ca773
+original_slug: Web/API/Document_object_model/Using_the_Document_Object_Model/Example
 ---
 
 ```html
